@@ -1,5 +1,5 @@
 package org.launchcode.codingevents.models;
-import android.arch.persistence.room.Entity;
+
 
 
 import javax.validation.constraints.Email;
